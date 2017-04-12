@@ -1,0 +1,9 @@
+c:\users\750118\documents\visual studio 2015\Projects\PowerCalculator\PowerCalculator\bin\Debug\PowerCalculator.exe.config
+c:\users\750118\documents\visual studio 2015\Projects\PowerCalculator\PowerCalculator\bin\Debug\PowerCalculator.exe
+c:\users\750118\documents\visual studio 2015\Projects\PowerCalculator\PowerCalculator\bin\Debug\PowerCalculator.pdb
+c:\users\750118\documents\visual studio 2015\Projects\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.csprojResolveAssemblyReference.cache
+c:\users\750118\documents\visual studio 2015\Projects\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.Properties.Resources.resources
+c:\users\750118\documents\visual studio 2015\Projects\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.csproj.GenerateResource.Cache
+c:\users\750118\documents\visual studio 2015\Projects\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.exe
+c:\users\750118\documents\visual studio 2015\Projects\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.pdb
+C:\Users\750118\Documents\Visual Studio 2015\Projects\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.frmPowerBill.resources

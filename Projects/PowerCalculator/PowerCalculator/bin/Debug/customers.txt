@@ -1,0 +1,9 @@
+123456, Mary shen, R, 18.168
+123567, Mo Xue, R, 18.168
+232178, noo money, R, 29363.380
+345777, bobby, C, 270.510
+768595, Joe blow, I, 324.534
+123455, wewewewe, I, 1591.137
+333333, hoidsfs, R, 2427.380
+444444, Kassy Zoschke, C, 60.000
+222222, Qun He, I, 116.000

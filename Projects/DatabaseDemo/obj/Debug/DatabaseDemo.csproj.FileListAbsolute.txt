@@ -1,0 +1,11 @@
+c:\users\750118\documents\visual studio 2015\Projects\DatabaseDemo\bin\Debug\DatabaseDemo.exe.config
+c:\users\750118\documents\visual studio 2015\Projects\DatabaseDemo\bin\Debug\DatabaseDemo.exe
+c:\users\750118\documents\visual studio 2015\Projects\DatabaseDemo\bin\Debug\DatabaseDemo.pdb
+c:\users\750118\documents\visual studio 2015\Projects\DatabaseDemo\obj\Debug\DatabaseDemo.csprojResolveAssemblyReference.cache
+c:\users\750118\documents\visual studio 2015\Projects\DatabaseDemo\obj\Debug\DatabaseDemo.MMABooks.resources
+c:\users\750118\documents\visual studio 2015\Projects\DatabaseDemo\obj\Debug\DatabaseDemo.Properties.Resources.resources
+c:\users\750118\documents\visual studio 2015\Projects\DatabaseDemo\obj\Debug\DatabaseDemo.csproj.GenerateResource.Cache
+c:\users\750118\documents\visual studio 2015\Projects\DatabaseDemo\obj\Debug\DatabaseDemo.exe
+c:\users\750118\documents\visual studio 2015\Projects\DatabaseDemo\obj\Debug\DatabaseDemo.pdb
+c:\users\750118\documents\visual studio 2015\Projects\DatabaseDemo\bin\Debug\MMABooks.mdf
+c:\users\750118\documents\visual studio 2015\Projects\DatabaseDemo\bin\Debug\MMABooks_log.ldf

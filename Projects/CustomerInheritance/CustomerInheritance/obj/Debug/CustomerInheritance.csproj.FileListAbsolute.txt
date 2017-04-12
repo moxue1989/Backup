@@ -1,0 +1,9 @@
+c:\users\750118\documents\visual studio 2015\Projects\CustomerInheritance\CustomerInheritance\bin\Debug\CustomerInheritance.exe.config
+c:\users\750118\documents\visual studio 2015\Projects\CustomerInheritance\CustomerInheritance\obj\Debug\CustomerInheritance.csprojResolveAssemblyReference.cache
+c:\users\750118\documents\visual studio 2015\Projects\CustomerInheritance\CustomerInheritance\obj\Debug\CustomerInheritance.frmCustomers.resources
+c:\users\750118\documents\visual studio 2015\Projects\CustomerInheritance\CustomerInheritance\obj\Debug\CustomerInheritance.Properties.Resources.resources
+c:\users\750118\documents\visual studio 2015\Projects\CustomerInheritance\CustomerInheritance\obj\Debug\CustomerInheritance.csproj.GenerateResource.Cache
+c:\users\750118\documents\visual studio 2015\Projects\CustomerInheritance\CustomerInheritance\bin\Debug\CustomerInheritance.exe
+c:\users\750118\documents\visual studio 2015\Projects\CustomerInheritance\CustomerInheritance\bin\Debug\CustomerInheritance.pdb
+c:\users\750118\documents\visual studio 2015\Projects\CustomerInheritance\CustomerInheritance\obj\Debug\CustomerInheritance.exe
+c:\users\750118\documents\visual studio 2015\Projects\CustomerInheritance\CustomerInheritance\obj\Debug\CustomerInheritance.pdb

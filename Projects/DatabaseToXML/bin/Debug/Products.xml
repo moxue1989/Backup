@@ -1,0 +1,133 @@
+<?xml version="1.0" standalone="yes"?>
+<MMABooksDataSet xmlns="http://tempuri.org/MMABooksDataSet.xsd">
+  <xs:schema id="MMABooksDataSet" targetNamespace="http://tempuri.org/MMABooksDataSet.xsd" xmlns:mstns="http://tempuri.org/MMABooksDataSet.xsd" xmlns="http://tempuri.org/MMABooksDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+    <xs:element name="MMABooksDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Products">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ProductCode">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                      <xs:maxLength value="10" />
+                    </xs:restriction>
+                  </xs:simpleType>
+                </xs:element>
+                <xs:element name="Description">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                      <xs:maxLength value="50" />
+                    </xs:restriction>
+                  </xs:simpleType>
+                </xs:element>
+                <xs:element name="UnitPrice" type="xs:decimal" />
+                <xs:element name="OnHandQuantity" type="xs:int" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//mstns:Products" />
+        <xs:field xpath="mstns:ProductCode" />
+      </xs:unique>
+    </xs:element>
+  </xs:schema>
+  <Products>
+    <ProductCode>2JST      </ProductCode>
+    <Description>Murach's JavaScript (2nd Edition)</Description>
+    <UnitPrice>54.5000</UnitPrice>
+    <OnHandQuantity>6937</OnHandQuantity>
+  </Products>
+  <Products>
+    <ProductCode>2QRY      </ProductCode>
+    <Description>Murach's jQuery (2nd Edition)</Description>
+    <UnitPrice>54.5000</UnitPrice>
+    <OnHandQuantity>677</OnHandQuantity>
+  </Products>
+  <Products>
+    <ProductCode>A46C      </ProductCode>
+    <Description>Murach's ASP.NET 4.6 Web Programming with C# 2015</Description>
+    <UnitPrice>57.5000</UnitPrice>
+    <OnHandQuantity>4637</OnHandQuantity>
+  </Products>
+  <Products>
+    <ProductCode>A46V      </ProductCode>
+    <Description>Murach's ASP.NET 4.6 Web Programming with VB 2015</Description>
+    <UnitPrice>57.5000</UnitPrice>
+    <OnHandQuantity>3974</OnHandQuantity>
+  </Products>
+  <Products>
+    <ProductCode>ADC4      </ProductCode>
+    <Description>Murach's ADO.NET 4 with C# 2010</Description>
+    <UnitPrice>56.5000</UnitPrice>
+    <OnHandQuantity>3756</OnHandQuantity>
+  </Products>
+  <Products>
+    <ProductCode>ADV4      </ProductCode>
+    <Description>Murach's ADO.NET 4 with VB 2010</Description>
+    <UnitPrice>56.5000</UnitPrice>
+    <OnHandQuantity>4538</OnHandQuantity>
+  </Products>
+  <Products>
+    <ProductCode>CRFC      </ProductCode>
+    <Description>Murach's CICS Desk Reference</Description>
+    <UnitPrice>50.0000</UnitPrice>
+    <OnHandQuantity>1865</OnHandQuantity>
+  </Products>
+  <Products>
+    <ProductCode>CS15      </ProductCode>
+    <Description>Murach's C# 2015</Description>
+    <UnitPrice>56.5000</UnitPrice>
+    <OnHandQuantity>5136</OnHandQuantity>
+  </Products>
+  <Products>
+    <ProductCode>DB1R      </ProductCode>
+    <Description>DB2 for the COBOL Programmer, Part 1 (2nd Edition)</Description>
+    <UnitPrice>42.0000</UnitPrice>
+    <OnHandQuantity>4825</OnHandQuantity>
+  </Products>
+  <Products>
+    <ProductCode>DB2R      </ProductCode>
+    <Description>DB2 for the COBOL Programmer, Part 2 (2nd Edition)</Description>
+    <UnitPrice>45.0000</UnitPrice>
+    <OnHandQuantity>621</OnHandQuantity>
+  </Products>
+  <Products>
+    <ProductCode>JAVP      </ProductCode>
+    <Description>Murach's Java Programming</Description>
+    <UnitPrice>56.5000</UnitPrice>
+    <OnHandQuantity>3455</OnHandQuantity>
+  </Products>
+  <Products>
+    <ProductCode>JSP2      </ProductCode>
+    <Description>Murach's Java Servlets and JSP (3rd Edition)</Description>
+    <UnitPrice>57.5000</UnitPrice>
+    <OnHandQuantity>4999</OnHandQuantity>
+  </Products>
+  <Products>
+    <ProductCode>MCBL      </ProductCode>
+    <Description>Murach's Structured COBOL</Description>
+    <UnitPrice>62.5000</UnitPrice>
+    <OnHandQuantity>2386</OnHandQuantity>
+  </Products>
+  <Products>
+    <ProductCode>MCCP      </ProductCode>
+    <Description>Murach's CICS for the COBOL Programmer</Description>
+    <UnitPrice>54.0000</UnitPrice>
+    <OnHandQuantity>2368</OnHandQuantity>
+  </Products>
+  <Products>
+    <ProductCode>SQ12      </ProductCode>
+    <Description>Murach's SQL Server 2012</Description>
+    <UnitPrice>57.5000</UnitPrice>
+    <OnHandQuantity>2465</OnHandQuantity>
+  </Products>
+  <Products>
+    <ProductCode>VB15      </ProductCode>
+    <Description>Murach's Visual Basic 2015</Description>
+    <UnitPrice>56.5000</UnitPrice>
+    <OnHandQuantity>2193</OnHandQuantity>
+  </Products>
+</MMABooksDataSet>

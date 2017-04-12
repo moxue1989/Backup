@@ -1,0 +1,9 @@
+c:\users\750118\documents\visual studio 2015\Projects\NewBostonTutorials\bin\Debug\NewBostonTutorials.exe.config
+c:\users\750118\documents\visual studio 2015\Projects\NewBostonTutorials\bin\Debug\NewBostonTutorials.exe
+c:\users\750118\documents\visual studio 2015\Projects\NewBostonTutorials\bin\Debug\NewBostonTutorials.pdb
+c:\users\750118\documents\visual studio 2015\Projects\NewBostonTutorials\obj\Debug\NewBostonTutorials.csprojResolveAssemblyReference.cache
+c:\users\750118\documents\visual studio 2015\Projects\NewBostonTutorials\obj\Debug\NewBostonTutorials.Form1.resources
+c:\users\750118\documents\visual studio 2015\Projects\NewBostonTutorials\obj\Debug\NewBostonTutorials.Properties.Resources.resources
+c:\users\750118\documents\visual studio 2015\Projects\NewBostonTutorials\obj\Debug\NewBostonTutorials.csproj.GenerateResource.Cache
+c:\users\750118\documents\visual studio 2015\Projects\NewBostonTutorials\obj\Debug\NewBostonTutorials.exe
+c:\users\750118\documents\visual studio 2015\Projects\NewBostonTutorials\obj\Debug\NewBostonTutorials.pdb

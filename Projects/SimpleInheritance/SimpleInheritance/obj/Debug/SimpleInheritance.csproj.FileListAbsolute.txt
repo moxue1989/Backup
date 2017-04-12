@@ -1,0 +1,6 @@
+c:\users\750118\documents\visual studio 2015\Projects\SimpleInheritance\SimpleInheritance\bin\Debug\SimpleInheritance.exe.config
+c:\users\750118\documents\visual studio 2015\Projects\SimpleInheritance\SimpleInheritance\bin\Debug\SimpleInheritance.exe
+c:\users\750118\documents\visual studio 2015\Projects\SimpleInheritance\SimpleInheritance\bin\Debug\SimpleInheritance.pdb
+c:\users\750118\documents\visual studio 2015\Projects\SimpleInheritance\SimpleInheritance\obj\Debug\SimpleInheritance.csprojResolveAssemblyReference.cache
+c:\users\750118\documents\visual studio 2015\Projects\SimpleInheritance\SimpleInheritance\obj\Debug\SimpleInheritance.exe
+c:\users\750118\documents\visual studio 2015\Projects\SimpleInheritance\SimpleInheritance\obj\Debug\SimpleInheritance.pdb

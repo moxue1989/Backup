@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="0f7b60a0-3026-48d4-96ce-65b887d30cac" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:2318/TechSupportService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="TechSupportService.xsd" MetadataType="Schema" ID="893be127-5152-4c62-b179-7ebebcc99fb1" SourceId="1" SourceUrl="http://localhost:2318/TechSupportService.svc?xsd=xsd0" />
+    <MetadataFile FileName="TechSupportService1.xsd" MetadataType="Schema" ID="f8b26d0f-f6e5-4f0b-9009-24d8e0602329" SourceId="1" SourceUrl="http://localhost:2318/TechSupportService.svc?xsd=xsd2" />
+    <MetadataFile FileName="TechSupportService.wsdl" MetadataType="Wsdl" ID="64aa2154-2a6a-4f3a-a764-9f3db2197e30" SourceId="1" SourceUrl="http://localhost:2318/TechSupportService.svc?wsdl" />
+    <MetadataFile FileName="TechSupportService.disco" MetadataType="Disco" ID="6f8cacf8-ce36-4005-89a4-50fe4ca865d0" SourceId="1" SourceUrl="http://localhost:2318/TechSupportService.svc?disco" />
+    <MetadataFile FileName="TechSupportService2.xsd" MetadataType="Schema" ID="59e993de-1c94-4a43-881f-4b2ce0228d41" SourceId="1" SourceUrl="http://localhost:2318/TechSupportService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

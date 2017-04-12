@@ -1,0 +1,9 @@
+c:\users\750118\documents\visual studio 2015\Projects\Dates\Dates\bin\Debug\Dates.exe.config
+c:\users\750118\documents\visual studio 2015\Projects\Dates\Dates\bin\Debug\Dates.exe
+c:\users\750118\documents\visual studio 2015\Projects\Dates\Dates\bin\Debug\Dates.pdb
+c:\users\750118\documents\visual studio 2015\Projects\Dates\Dates\obj\Debug\Dates.csprojResolveAssemblyReference.cache
+c:\users\750118\documents\visual studio 2015\Projects\Dates\Dates\obj\Debug\Dates.Form1.resources
+c:\users\750118\documents\visual studio 2015\Projects\Dates\Dates\obj\Debug\Dates.Properties.Resources.resources
+c:\users\750118\documents\visual studio 2015\Projects\Dates\Dates\obj\Debug\Dates.csproj.GenerateResource.Cache
+c:\users\750118\documents\visual studio 2015\Projects\Dates\Dates\obj\Debug\Dates.exe
+c:\users\750118\documents\visual studio 2015\Projects\Dates\Dates\obj\Debug\Dates.pdb

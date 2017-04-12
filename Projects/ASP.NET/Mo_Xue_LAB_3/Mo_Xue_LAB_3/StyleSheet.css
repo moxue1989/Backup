@@ -1,0 +1,34 @@
+﻿/*
+    External stylesheet for Tech Support
+    Mo Xue
+    ASP_LAB_3
+*/
+
+body {
+    text-align: center;
+    background: yellow;
+}
+
+.header {
+    font-size: 100px;
+    color: purple;
+    font-weight: bolder;
+    text-shadow: 2px 2px red;
+}
+
+.image {
+    width: 200px;
+    height: 120px;
+}
+
+.subheader {
+    font-size: 60px;
+    color: orange;
+    text-decoration: underline;
+}
+
+.dropdown {
+    font-size: 30px;
+    color: green;
+}
+

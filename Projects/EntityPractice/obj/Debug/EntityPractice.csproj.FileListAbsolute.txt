@@ -1,0 +1,14 @@
+c:\users\750118\documents\visual studio 2015\Projects\EntityPractice\bin\Debug\EntityPractice.exe.config
+c:\users\750118\documents\visual studio 2015\Projects\EntityPractice\bin\Debug\EntityPractice.exe
+c:\users\750118\documents\visual studio 2015\Projects\EntityPractice\bin\Debug\EntityPractice.pdb
+c:\users\750118\documents\visual studio 2015\Projects\EntityPractice\bin\Debug\EntityFramework.dll
+c:\users\750118\documents\visual studio 2015\Projects\EntityPractice\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\750118\documents\visual studio 2015\Projects\EntityPractice\bin\Debug\EntityFramework.xml
+c:\users\750118\documents\visual studio 2015\Projects\EntityPractice\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\750118\documents\visual studio 2015\Projects\EntityPractice\obj\Debug\EntityPractice.csprojResolveAssemblyReference.cache
+c:\users\750118\documents\visual studio 2015\Projects\EntityPractice\obj\Debug\EntityPractice.frmProductDetails.resources
+c:\users\750118\documents\visual studio 2015\Projects\EntityPractice\obj\Debug\EntityPractice.frmProducts.resources
+c:\users\750118\documents\visual studio 2015\Projects\EntityPractice\obj\Debug\EntityPractice.Properties.Resources.resources
+c:\users\750118\documents\visual studio 2015\Projects\EntityPractice\obj\Debug\EntityPractice.csproj.GenerateResource.Cache
+c:\users\750118\documents\visual studio 2015\Projects\EntityPractice\obj\Debug\EntityPractice.exe
+c:\users\750118\documents\visual studio 2015\Projects\EntityPractice\obj\Debug\EntityPractice.pdb

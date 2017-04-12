@@ -1,0 +1,10 @@
+c:\users\750118\documents\visual studio 2015\Projects\Mo Xue CPRG200_LAB3\bin\Debug\Mo Xue CPRG200_LAB3.exe.config
+c:\users\750118\documents\visual studio 2015\Projects\Mo Xue CPRG200_LAB3\bin\Debug\NORTHWND.MDF
+c:\users\750118\documents\visual studio 2015\Projects\Mo Xue CPRG200_LAB3\bin\Debug\NORTHWND_log.ldf
+c:\users\750118\documents\visual studio 2015\Projects\Mo Xue CPRG200_LAB3\bin\Debug\Mo Xue CPRG200_LAB3.exe
+c:\users\750118\documents\visual studio 2015\Projects\Mo Xue CPRG200_LAB3\bin\Debug\Mo Xue CPRG200_LAB3.pdb
+c:\users\750118\documents\visual studio 2015\Projects\Mo Xue CPRG200_LAB3\obj\Debug\Mo_Xue_CPRG200_LAB3.frmNorthWind.resources
+c:\users\750118\documents\visual studio 2015\Projects\Mo Xue CPRG200_LAB3\obj\Debug\Mo_Xue_CPRG200_LAB3.Properties.Resources.resources
+c:\users\750118\documents\visual studio 2015\Projects\Mo Xue CPRG200_LAB3\obj\Debug\Mo Xue CPRG200_LAB3.csproj.GenerateResource.Cache
+c:\users\750118\documents\visual studio 2015\Projects\Mo Xue CPRG200_LAB3\obj\Debug\Mo Xue CPRG200_LAB3.exe
+c:\users\750118\documents\visual studio 2015\Projects\Mo Xue CPRG200_LAB3\obj\Debug\Mo Xue CPRG200_LAB3.pdb

@@ -1,0 +1,9 @@
+c:\users\750118\documents\visual studio 2015\Projects\SimpleTextFile\SimpleTextFile\bin\Debug\SimpleTextFile.exe.config
+c:\users\750118\documents\visual studio 2015\Projects\SimpleTextFile\SimpleTextFile\bin\Debug\SimpleTextFile.exe
+c:\users\750118\documents\visual studio 2015\Projects\SimpleTextFile\SimpleTextFile\bin\Debug\SimpleTextFile.pdb
+c:\users\750118\documents\visual studio 2015\Projects\SimpleTextFile\SimpleTextFile\obj\Debug\SimpleTextFile.csprojResolveAssemblyReference.cache
+c:\users\750118\documents\visual studio 2015\Projects\SimpleTextFile\SimpleTextFile\obj\Debug\SimpleTextFile.Form1.resources
+c:\users\750118\documents\visual studio 2015\Projects\SimpleTextFile\SimpleTextFile\obj\Debug\SimpleTextFile.Properties.Resources.resources
+c:\users\750118\documents\visual studio 2015\Projects\SimpleTextFile\SimpleTextFile\obj\Debug\SimpleTextFile.csproj.GenerateResource.Cache
+c:\users\750118\documents\visual studio 2015\Projects\SimpleTextFile\SimpleTextFile\obj\Debug\SimpleTextFile.exe
+c:\users\750118\documents\visual studio 2015\Projects\SimpleTextFile\SimpleTextFile\obj\Debug\SimpleTextFile.pdb

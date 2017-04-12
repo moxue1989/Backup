@@ -1,0 +1,9 @@
+c:\users\750118\documents\visual studio 2015\Projects\CoinMachine\CoinMachine\bin\Debug\CoinMachine.exe.config
+c:\users\750118\documents\visual studio 2015\Projects\CoinMachine\CoinMachine\bin\Debug\CoinMachine.exe
+c:\users\750118\documents\visual studio 2015\Projects\CoinMachine\CoinMachine\bin\Debug\CoinMachine.pdb
+c:\users\750118\documents\visual studio 2015\Projects\CoinMachine\CoinMachine\obj\Debug\CoinMachine.csprojResolveAssemblyReference.cache
+c:\users\750118\documents\visual studio 2015\Projects\CoinMachine\CoinMachine\obj\Debug\CoinMachine.Form1.resources
+c:\users\750118\documents\visual studio 2015\Projects\CoinMachine\CoinMachine\obj\Debug\CoinMachine.Properties.Resources.resources
+c:\users\750118\documents\visual studio 2015\Projects\CoinMachine\CoinMachine\obj\Debug\CoinMachine.csproj.GenerateResource.Cache
+c:\users\750118\documents\visual studio 2015\Projects\CoinMachine\CoinMachine\obj\Debug\CoinMachine.exe
+c:\users\750118\documents\visual studio 2015\Projects\CoinMachine\CoinMachine\obj\Debug\CoinMachine.pdb

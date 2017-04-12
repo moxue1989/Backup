@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<script type="text/javascript">
+	function validate() {
+		var litres = document.getElementById("litres");
+		if (litres.value < 0){
+			alert(litres.value + " has to be above 0");
+			return false;
+		}
+		return confirm("Really submit?");
+	}	
+</script>
+
+<script type="text/javascript">
+</script>
+
+<body>
+	<h1>Miles Per Gallon Converter</h1>
+	<p>Enter Litres per 100 kilometers</p>
+	<form action="Day1Exercise">
+		Litres per 100 Kilometers: <input type="number" name="litres" id="litres"/>
+		<input type="submit" value="Convert" onclick="return validate()"/>
+	</form>
+
+</body>
+</html>

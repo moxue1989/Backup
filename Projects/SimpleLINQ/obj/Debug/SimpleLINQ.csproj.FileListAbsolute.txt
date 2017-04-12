@@ -1,0 +1,7 @@
+C:\Users\750118\Source\Repos\Group-5-Project-2\SimpleLINQ\bin\Debug\SimpleLINQ.exe.config
+C:\Users\750118\Documents\Visual Studio 2015\Projects\SimpleLINQ\bin\Debug\SimpleLINQ.exe.config
+C:\Users\750118\Documents\Visual Studio 2015\Projects\SimpleLINQ\bin\Debug\SimpleLINQ.exe
+C:\Users\750118\Documents\Visual Studio 2015\Projects\SimpleLINQ\bin\Debug\SimpleLINQ.pdb
+C:\Users\750118\Documents\Visual Studio 2015\Projects\SimpleLINQ\obj\Debug\SimpleLINQ.csprojResolveAssemblyReference.cache
+C:\Users\750118\Documents\Visual Studio 2015\Projects\SimpleLINQ\obj\Debug\SimpleLINQ.exe
+C:\Users\750118\Documents\Visual Studio 2015\Projects\SimpleLINQ\obj\Debug\SimpleLINQ.pdb

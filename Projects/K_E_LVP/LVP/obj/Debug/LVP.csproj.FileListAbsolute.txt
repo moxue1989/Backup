@@ -1,0 +1,12 @@
+c:\users\698558\documents\visual studio 2015\Projects\LVP\LVP\bin\Debug\LVP.exe.config
+c:\users\698558\documents\visual studio 2015\Projects\LVP\LVP\bin\Debug\LVP.exe
+c:\users\698558\documents\visual studio 2015\Projects\LVP\LVP\bin\Debug\LVP.pdb
+c:\users\698558\documents\visual studio 2015\Projects\LVP\LVP\obj\Debug\LVP.Properties.Resources.resources
+c:\users\698558\documents\visual studio 2015\Projects\LVP\LVP\obj\Debug\LVP.csproj.GenerateResource.Cache
+c:\users\698558\documents\visual studio 2015\Projects\LVP\LVP\obj\Debug\LVP.exe
+c:\users\698558\documents\visual studio 2015\Projects\LVP\LVP\obj\Debug\LVP.pdb
+c:\users\698558\documents\visual studio 2015\Projects\LVP\LVP\obj\Debug\LVP.Form1.resources
+C:\Users\698558\documents\visual studio 2015\Projects\LVP\LVP\obj\Debug\LVP.csprojResolveAssemblyReference.cache
+O:\student\Information & Communications Technologies\Data\OOSD\OOSD Shared Folders\Fall Track\Common\K_E_LVP\LVP\bin\Debug\LVP.exe.config
+O:\student\Information & Communications Technologies\Data\OOSD\OOSD Shared Folders\Fall Track\Common\K_E_LVP\LVP\obj\Debug\LVP.exe
+O:\student\Information & Communications Technologies\Data\OOSD\OOSD Shared Folders\Fall Track\Common\K_E_LVP\LVP\obj\Debug\LVP.pdb

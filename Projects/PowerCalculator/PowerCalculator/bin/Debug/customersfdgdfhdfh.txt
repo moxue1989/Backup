@@ -1,0 +1,13 @@
+100345, Mary Shen, R, 266.000
+200567, SAIT Campus, C, 915.000
+500678, City of Calgary, I, 61423.000
+100786, Mo Xue, R, 370.000
+121313, Kasi Emmanuel, R, 185.712
+123678, Abel Surace, I, 14053.000
+555555, Justin Pilon, R, 34725.776
+777777, Almerick Wong, C, 2580.000
+555433, Jermaine Williams, R, 34020.396
+901009, Cenovus, I, 5883.000
+900456, Imperial Oil, I, 7058.540
+560000, Alex Tranov, C, 2570.505
+444444, Kevin Wong, R, 40.060

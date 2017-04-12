@@ -1,0 +1,9 @@
+c:\users\750118\documents\visual studio 2015\Projects\Tax Calculator\Tax Calculator\bin\Debug\Tax Calculator.exe.config
+c:\users\750118\documents\visual studio 2015\Projects\Tax Calculator\Tax Calculator\bin\Debug\Tax Calculator.exe
+c:\users\750118\documents\visual studio 2015\Projects\Tax Calculator\Tax Calculator\bin\Debug\Tax Calculator.pdb
+c:\users\750118\documents\visual studio 2015\Projects\Tax Calculator\Tax Calculator\obj\Debug\Tax Calculator.csprojResolveAssemblyReference.cache
+c:\users\750118\documents\visual studio 2015\Projects\Tax Calculator\Tax Calculator\obj\Debug\Tax_Calculator.Form1.resources
+c:\users\750118\documents\visual studio 2015\Projects\Tax Calculator\Tax Calculator\obj\Debug\Tax_Calculator.Properties.Resources.resources
+c:\users\750118\documents\visual studio 2015\Projects\Tax Calculator\Tax Calculator\obj\Debug\Tax Calculator.csproj.GenerateResource.Cache
+c:\users\750118\documents\visual studio 2015\Projects\Tax Calculator\Tax Calculator\obj\Debug\Tax Calculator.exe
+c:\users\750118\documents\visual studio 2015\Projects\Tax Calculator\Tax Calculator\obj\Debug\Tax Calculator.pdb

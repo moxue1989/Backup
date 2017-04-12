@@ -1,0 +1,13 @@
+c:\users\750118\documents\visual studio 2015\Projects\Mo_Xue_CPRG200_Lab_4\bin\Debug\Mo_Xue_CPRG200_Lab_4.exe.config
+c:\users\750118\documents\visual studio 2015\Projects\Mo_Xue_CPRG200_Lab_4\bin\Debug\NORTHWND.MDF
+c:\users\750118\documents\visual studio 2015\Projects\Mo_Xue_CPRG200_Lab_4\bin\Debug\NORTHWND_log.ldf
+c:\users\750118\documents\visual studio 2015\Projects\Mo_Xue_CPRG200_Lab_4\bin\Debug\Mo_Xue_CPRG200_Lab_4.exe
+c:\users\750118\documents\visual studio 2015\Projects\Mo_Xue_CPRG200_Lab_4\bin\Debug\Mo_Xue_CPRG200_Lab_4.pdb
+c:\users\750118\documents\visual studio 2015\Projects\Mo_Xue_CPRG200_Lab_4\bin\Debug\Dapper.dll
+c:\users\750118\documents\visual studio 2015\Projects\Mo_Xue_CPRG200_Lab_4\bin\Debug\Dapper.xml
+c:\users\750118\documents\visual studio 2015\Projects\Mo_Xue_CPRG200_Lab_4\obj\Debug\Mo_Xue_CPRG200_Lab_4.csprojResolveAssemblyReference.cache
+c:\users\750118\documents\visual studio 2015\Projects\Mo_Xue_CPRG200_Lab_4\obj\Debug\Mo_Xue_CPRG200_Lab_4.frmNorthWind.resources
+c:\users\750118\documents\visual studio 2015\Projects\Mo_Xue_CPRG200_Lab_4\obj\Debug\Mo_Xue_CPRG200_Lab_4.Properties.Resources.resources
+c:\users\750118\documents\visual studio 2015\Projects\Mo_Xue_CPRG200_Lab_4\obj\Debug\Mo_Xue_CPRG200_Lab_4.csproj.GenerateResource.Cache
+c:\users\750118\documents\visual studio 2015\Projects\Mo_Xue_CPRG200_Lab_4\obj\Debug\Mo_Xue_CPRG200_Lab_4.exe
+c:\users\750118\documents\visual studio 2015\Projects\Mo_Xue_CPRG200_Lab_4\obj\Debug\Mo_Xue_CPRG200_Lab_4.pdb

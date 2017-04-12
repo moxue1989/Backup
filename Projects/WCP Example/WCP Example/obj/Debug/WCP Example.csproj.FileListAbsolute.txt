@@ -1,0 +1,6 @@
+c:\users\750118\documents\visual studio 2015\Projects\WCP Example\WCP Example\bin\WCP Example.dll.config
+c:\users\750118\documents\visual studio 2015\Projects\WCP Example\WCP Example\bin\WCP Example.dll
+c:\users\750118\documents\visual studio 2015\Projects\WCP Example\WCP Example\bin\WCP Example.pdb
+c:\users\750118\documents\visual studio 2015\Projects\WCP Example\WCP Example\obj\Debug\WCP Example.csprojResolveAssemblyReference.cache
+c:\users\750118\documents\visual studio 2015\Projects\WCP Example\WCP Example\obj\Debug\WCP Example.dll
+c:\users\750118\documents\visual studio 2015\Projects\WCP Example\WCP Example\obj\Debug\WCP Example.pdb

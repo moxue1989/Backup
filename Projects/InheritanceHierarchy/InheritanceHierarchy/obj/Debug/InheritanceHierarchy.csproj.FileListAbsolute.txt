@@ -1,0 +1,6 @@
+c:\users\750118\documents\visual studio 2015\Projects\InheritanceHierarchy\InheritanceHierarchy\bin\Debug\InheritanceHierarchy.exe.config
+c:\users\750118\documents\visual studio 2015\Projects\InheritanceHierarchy\InheritanceHierarchy\bin\Debug\InheritanceHierarchy.exe
+c:\users\750118\documents\visual studio 2015\Projects\InheritanceHierarchy\InheritanceHierarchy\bin\Debug\InheritanceHierarchy.pdb
+c:\users\750118\documents\visual studio 2015\Projects\InheritanceHierarchy\InheritanceHierarchy\obj\Debug\InheritanceHierarchy.csprojResolveAssemblyReference.cache
+c:\users\750118\documents\visual studio 2015\Projects\InheritanceHierarchy\InheritanceHierarchy\obj\Debug\InheritanceHierarchy.exe
+c:\users\750118\documents\visual studio 2015\Projects\InheritanceHierarchy\InheritanceHierarchy\obj\Debug\InheritanceHierarchy.pdb

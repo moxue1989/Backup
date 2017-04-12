@@ -1,0 +1,108 @@
+<!-- MADNESS script by MO XUE, OPEN SOURCE! -->
+
+<audio id="spaceAudio" ><source src="photos/space.mp3" type="audio/wav" /></audio>
+<audio id="frogAudio" ><source src="photos/frog.mp3" type="audio/wav" /></audio>
+<audio id="horseAudio" ><source src="photos/horse.mp3" type="audio/wav" /></audio>
+<audio id="sheepAudio" ><source src="photos/sheep.mp3" type="audio/wav" /></audio>
+
+<img class="animals" id ="spaceImage" style="position:fixed; left:30%; top:70%; visibility:hidden; z-index: 20"  onmouseover="spaceship.action()"/>
+<img class="animals" id ="frogImage" style="position:fixed; left:80%; top:50%; visibility:hidden; z-index: 20" onmouseover="frog.action()"/>
+<img class="animals" id ="horseImage" style="position:fixed; left:50%; top:20%; visibility:hidden; z-index: 20" onmouseover="horse.action()"/>
+<img class="animals" id ="sheepImage" style="position:fixed; left:10%; top:80%; visibility:hidden; z-index: 20" onmouseover="sheep.action()"/>
+
+<!-- Control buttons -->
+<!-- <div class="navbar-fixed-top">
+	<button class="mad" id="mad1" onclick="start()">Start the MADNESS!</button>
+	<button class="mad" id="mad2" onclick="stop()">Stop the MADNESS!</button>
+</div> -->
+
+<script>
+// define new objects from Entity class
+var spaceship = new Entity(document.getElementById("spaceImage"), "photos/spaceship.gif", "photos/spaceship.gif", 4, document.getElementById("spaceAudio"));
+var frog = new Entity(document.getElementById("frogImage"), "photos/frog.gif", "photos/frog2.gif", 1, document.getElementById("frogAudio"));
+var horse = new Entity(document.getElementById("horseImage"), "photos/horse.gif", "photos/horse2.gif", 2, document.getElementById("horseAudio"));
+var sheep = new Entity(document.getElementById("sheepImage"), "photos/sheep.gif", "photos/sheep2.gif", 1.5, document.getElementById("sheepAudio"));
+
+// Starts the MADNESS :)
+function start() {
+	spaceship.start();
+	frog.start();
+	horse.start();
+	sheep.start();
+	spaceship.element.style.visibility = "visible";
+	frog.element.style.visibility = "visible";
+	horse.element.style.visibility = "visible";
+	sheep.element.style.visibility = "visible";
+}
+
+// Stops the MADNESS :(
+function stop() {
+	clearInterval(spaceship.moving);
+	clearInterval(frog.moving);
+	clearInterval(horse.moving);
+	clearInterval(sheep.moving);
+	spaceship.element.style.visibility = "hidden";
+	frog.element.style.visibility = "hidden";
+	horse.element.style.visibility = "hidden";
+	sheep.element.style.visibility = "hidden";
+}
+
+// Define "Entity" class with "img element, img srcs(one forward, one back), speed multiplier, and audio element" as constructor inputs
+function Entity(element, src1, src2, speed, aud) {
+	this.element = element;
+	this.src1 = src1;
+	this.src2 = src2;
+	this.element.src = this.src2;
+	this.posX = parseFloat(this.element.style.left);
+	this.posY = parseFloat(this.element.style.top);
+	this.speed = speed;
+	this.aud = aud;
+	this.speedX = speed;
+	this.speedY = speed;
+	this.moving;
+	
+// start animation and set pointer to "moving" variable
+	this.start = function() {
+		console.log(this.posX);
+		clearInterval(this.moving);
+		this.moving = setInterval(this.move.bind(this), 100); //binds setInterval to local function *important	
+		}
+	
+// reverse object direction as it hits edge of screen and give it a random speed based on speed multiplier
+	this.move = function() {
+		if (this.posX < 1) { 
+			this.speedX = Math.random()*this.speed;
+			this.element.src = this.src2;
+		} else if (this.posX > 85) { 	
+			this.speedX = -Math.random()*this.speed;
+			this.element.src = this.src1;
+		}
+		
+		if (this.posY < 1) { this.speedY = Math.random()*this.speed;
+		} else if (this.posY > 85) { this.speedY = -Math.random()*this.speed;}
+		
+		this.posX += this.speedX;
+		this.posY += this.speedY; 
+		//console.log(this.posX);
+		//console.log(this.posY);
+		this.element.style.left = this.posX + "%";
+		this.element.style.top = this.posY + "%";
+		}
+//uses thrust and play functions on object on mouse hover
+	this.action = function() {
+		this.thrust();
+		this.play();
+		}
+		
+// increases speed of object by three fold until it hits edge of screen		
+	this.thrust = function() {
+		this.speedX *= 3;
+		this.speedY *= 3;
+		}
+		
+// play associated audio file
+	this.play = function() {
+		aud.play();
+		}
+	}
+</script>

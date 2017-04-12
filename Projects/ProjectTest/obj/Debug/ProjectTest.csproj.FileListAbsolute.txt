@@ -1,0 +1,11 @@
+c:\users\750118\documents\visual studio 2015\Projects\ProjectTest\bin\Debug\ProjectTest.exe.config
+c:\users\750118\documents\visual studio 2015\Projects\ProjectTest\bin\Debug\ProjectTest.exe
+c:\users\750118\documents\visual studio 2015\Projects\ProjectTest\bin\Debug\ProjectTest.pdb
+c:\users\750118\documents\visual studio 2015\Projects\ProjectTest\obj\Debug\ProjectTest.csprojResolveAssemblyReference.cache
+c:\users\750118\documents\visual studio 2015\Projects\ProjectTest\obj\Debug\ProjectTest.Form1.resources
+c:\users\750118\documents\visual studio 2015\Projects\ProjectTest\obj\Debug\ProjectTest.Properties.Resources.resources
+c:\users\750118\documents\visual studio 2015\Projects\ProjectTest\obj\Debug\ProjectTest.csproj.GenerateResource.Cache
+c:\users\750118\documents\visual studio 2015\Projects\ProjectTest\obj\Debug\ProjectTest.exe
+c:\users\750118\documents\visual studio 2015\Projects\ProjectTest\obj\Debug\ProjectTest.pdb
+c:\users\750118\documents\visual studio 2015\Projects\ProjectTest\bin\Debug\Dapper.dll
+c:\users\750118\documents\visual studio 2015\Projects\ProjectTest\bin\Debug\Dapper.xml

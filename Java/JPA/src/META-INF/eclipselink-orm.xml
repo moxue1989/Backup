@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-mappings version="2.5" xmlns="http://www.eclipse.org/eclipselink/xsds/persistence/orm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.eclipse.org/eclipselink/xsds/persistence/orm http://www.eclipse.org/eclipselink/xsds/eclipselink_orm_2_5.xsd">
+    <named-query name="Bookingdetail.findAll">
+        <query>select b from Bookingdetail b</query>
+    </named-query>
+    <named-query name="Booking.findAll">
+        <query>select b from Booking b</query>
+    </named-query>
+	<entity class="model.Booking" access="VIRTUAL">
+		<table name="bookings"/>
+		<attributes>
+			<id name="bookingId" attribute-type="int">
+			</id>
+			<basic name="bookingDate" attribute-type="java.util.Date">
+				<temporal>TIMESTAMP</temporal>
+			</basic>
+			<basic name="bookingNo" attribute-type="String">
+			</basic>
+			<basic name="customerId" attribute-type="int">
+			</basic>
+			<basic name="packageId" attribute-type="int">
+			</basic>
+			<basic name="travelerCount" attribute-type="double">
+			</basic>
+			<basic name="tripTypeId" attribute-type="String">
+			</basic>
+			<one-to-many name="bookingdetails" mapped-by="booking" target-entity="model.Bookingdetail" attribute-type="java.util.List">
+			</one-to-many>
+		</attributes>
+	</entity>
+</entity-mappings>

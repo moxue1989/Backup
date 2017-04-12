@@ -1,0 +1,6 @@
+C:\Users\750118\Documents\Visual Studio 2015\Projects\Thread1\bin\Debug\Thread1.exe.config
+C:\Users\750118\Documents\Visual Studio 2015\Projects\Thread1\bin\Debug\Thread1.exe
+C:\Users\750118\Documents\Visual Studio 2015\Projects\Thread1\bin\Debug\Thread1.pdb
+C:\Users\750118\Documents\Visual Studio 2015\Projects\Thread1\obj\Debug\Thread1.csprojResolveAssemblyReference.cache
+C:\Users\750118\Documents\Visual Studio 2015\Projects\Thread1\obj\Debug\Thread1.exe
+C:\Users\750118\Documents\Visual Studio 2015\Projects\Thread1\obj\Debug\Thread1.pdb

@@ -1,0 +1,8 @@
+c:\users\750118\documents\visual studio 2015\Projects\ChickenorEgg\ChickenorEgg\bin\Debug\ChickenorEgg.exe.config
+c:\users\750118\documents\visual studio 2015\Projects\ChickenorEgg\ChickenorEgg\bin\Debug\ChickenorEgg.exe
+c:\users\750118\documents\visual studio 2015\Projects\ChickenorEgg\ChickenorEgg\bin\Debug\ChickenorEgg.pdb
+c:\users\750118\documents\visual studio 2015\Projects\ChickenorEgg\ChickenorEgg\obj\Debug\ChickenorEgg.Form1.resources
+c:\users\750118\documents\visual studio 2015\Projects\ChickenorEgg\ChickenorEgg\obj\Debug\ChickenorEgg.Properties.Resources.resources
+c:\users\750118\documents\visual studio 2015\Projects\ChickenorEgg\ChickenorEgg\obj\Debug\ChickenorEgg.csproj.GenerateResource.Cache
+c:\users\750118\documents\visual studio 2015\Projects\ChickenorEgg\ChickenorEgg\obj\Debug\ChickenorEgg.exe
+c:\users\750118\documents\visual studio 2015\Projects\ChickenorEgg\ChickenorEgg\obj\Debug\ChickenorEgg.pdb

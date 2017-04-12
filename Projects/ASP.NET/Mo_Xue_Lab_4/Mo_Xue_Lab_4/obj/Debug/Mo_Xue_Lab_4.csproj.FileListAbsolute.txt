@@ -1,0 +1,8 @@
+c:\users\750118\documents\visual studio 2015\Projects\Mo_Xue_Lab_4\Mo_Xue_Lab_4\bin\Mo_Xue_Lab_4.dll.config
+c:\users\750118\documents\visual studio 2015\Projects\Mo_Xue_Lab_4\Mo_Xue_Lab_4\bin\Mo_Xue_Lab_4.dll
+c:\users\750118\documents\visual studio 2015\Projects\Mo_Xue_Lab_4\Mo_Xue_Lab_4\bin\Mo_Xue_Lab_4.pdb
+c:\users\750118\documents\visual studio 2015\Projects\Mo_Xue_Lab_4\Mo_Xue_Lab_4\bin\Dapper.dll
+c:\users\750118\documents\visual studio 2015\Projects\Mo_Xue_Lab_4\Mo_Xue_Lab_4\bin\Dapper.xml
+c:\users\750118\documents\visual studio 2015\Projects\Mo_Xue_Lab_4\Mo_Xue_Lab_4\obj\Debug\Mo_Xue_Lab_4.csprojResolveAssemblyReference.cache
+c:\users\750118\documents\visual studio 2015\Projects\Mo_Xue_Lab_4\Mo_Xue_Lab_4\obj\Debug\Mo_Xue_Lab_4.dll
+c:\users\750118\documents\visual studio 2015\Projects\Mo_Xue_Lab_4\Mo_Xue_Lab_4\obj\Debug\Mo_Xue_Lab_4.pdb

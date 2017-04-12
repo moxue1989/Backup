@@ -1,0 +1,11 @@
+c:\users\750118\documents\visual studio 2015\Projects\Mo Xue Lab 3\bin\Debug\Mo Xue Lab 3.exe.config
+c:\users\750118\documents\visual studio 2015\Projects\Mo Xue Lab 3\bin\Debug\NORTHWND.MDF
+c:\users\750118\documents\visual studio 2015\Projects\Mo Xue Lab 3\bin\Debug\NORTHWND_log.ldf
+c:\users\750118\documents\visual studio 2015\Projects\Mo Xue Lab 3\bin\Debug\Mo Xue Lab 3.exe
+c:\users\750118\documents\visual studio 2015\Projects\Mo Xue Lab 3\bin\Debug\Mo Xue Lab 3.pdb
+c:\users\750118\documents\visual studio 2015\Projects\Mo Xue Lab 3\obj\Debug\Mo Xue Lab 3.csprojResolveAssemblyReference.cache
+c:\users\750118\documents\visual studio 2015\Projects\Mo Xue Lab 3\obj\Debug\Mo_Xue_Lab_3.frmNorthWind.resources
+c:\users\750118\documents\visual studio 2015\Projects\Mo Xue Lab 3\obj\Debug\Mo_Xue_Lab_3.Properties.Resources.resources
+c:\users\750118\documents\visual studio 2015\Projects\Mo Xue Lab 3\obj\Debug\Mo Xue Lab 3.csproj.GenerateResource.Cache
+c:\users\750118\documents\visual studio 2015\Projects\Mo Xue Lab 3\obj\Debug\Mo Xue Lab 3.exe
+c:\users\750118\documents\visual studio 2015\Projects\Mo Xue Lab 3\obj\Debug\Mo Xue Lab 3.pdb

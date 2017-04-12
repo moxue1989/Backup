@@ -1,0 +1,9 @@
+c:\users\750118\documents\visual studio 2015\Projects\FormControlDemo\bin\Debug\FormControlDemo.exe.config
+c:\users\750118\documents\visual studio 2015\Projects\FormControlDemo\bin\Debug\FormControlDemo.exe
+c:\users\750118\documents\visual studio 2015\Projects\FormControlDemo\bin\Debug\FormControlDemo.pdb
+c:\users\750118\documents\visual studio 2015\Projects\FormControlDemo\obj\Debug\FormControlDemo.csprojResolveAssemblyReference.cache
+c:\users\750118\documents\visual studio 2015\Projects\FormControlDemo\obj\Debug\FormControlDemo.Form1.resources
+c:\users\750118\documents\visual studio 2015\Projects\FormControlDemo\obj\Debug\FormControlDemo.Properties.Resources.resources
+c:\users\750118\documents\visual studio 2015\Projects\FormControlDemo\obj\Debug\FormControlDemo.csproj.GenerateResource.Cache
+c:\users\750118\documents\visual studio 2015\Projects\FormControlDemo\obj\Debug\FormControlDemo.exe
+c:\users\750118\documents\visual studio 2015\Projects\FormControlDemo\obj\Debug\FormControlDemo.pdb

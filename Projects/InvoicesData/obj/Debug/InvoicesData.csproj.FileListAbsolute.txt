@@ -1,0 +1,5 @@
+C:\Users\750118\Documents\Visual Studio 2015\Projects\InvoicesData\bin\Debug\InvoicesData.dll
+C:\Users\750118\Documents\Visual Studio 2015\Projects\InvoicesData\bin\Debug\InvoicesData.pdb
+C:\Users\750118\Documents\Visual Studio 2015\Projects\InvoicesData\obj\Debug\InvoicesData.csprojResolveAssemblyReference.cache
+C:\Users\750118\Documents\Visual Studio 2015\Projects\InvoicesData\obj\Debug\InvoicesData.dll
+C:\Users\750118\Documents\Visual Studio 2015\Projects\InvoicesData\obj\Debug\InvoicesData.pdb

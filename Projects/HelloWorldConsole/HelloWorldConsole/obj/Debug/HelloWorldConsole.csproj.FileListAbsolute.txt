@@ -1,0 +1,6 @@
+c:\users\750118\documents\visual studio 2015\Projects\HelloWorldConsole\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe.config
+c:\users\750118\documents\visual studio 2015\Projects\HelloWorldConsole\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe
+c:\users\750118\documents\visual studio 2015\Projects\HelloWorldConsole\HelloWorldConsole\bin\Debug\HelloWorldConsole.pdb
+c:\users\750118\documents\visual studio 2015\Projects\HelloWorldConsole\HelloWorldConsole\obj\Debug\HelloWorldConsole.csprojResolveAssemblyReference.cache
+c:\users\750118\documents\visual studio 2015\Projects\HelloWorldConsole\HelloWorldConsole\obj\Debug\HelloWorldConsole.exe
+c:\users\750118\documents\visual studio 2015\Projects\HelloWorldConsole\HelloWorldConsole\obj\Debug\HelloWorldConsole.pdb

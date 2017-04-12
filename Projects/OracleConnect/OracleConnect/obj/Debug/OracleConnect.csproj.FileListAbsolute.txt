@@ -1,0 +1,8 @@
+C:\Users\750118\Documents\Visual Studio 2015\Projects\OracleConnect\OracleConnect\bin\Debug\OracleConnect.exe.config
+C:\Users\750118\Documents\Visual Studio 2015\Projects\OracleConnect\OracleConnect\bin\Debug\OracleConnect.exe
+C:\Users\750118\Documents\Visual Studio 2015\Projects\OracleConnect\OracleConnect\bin\Debug\OracleConnect.pdb
+C:\Users\750118\Documents\Visual Studio 2015\Projects\OracleConnect\OracleConnect\bin\Debug\Dapper.dll
+C:\Users\750118\Documents\Visual Studio 2015\Projects\OracleConnect\OracleConnect\bin\Debug\Dapper.xml
+C:\Users\750118\Documents\Visual Studio 2015\Projects\OracleConnect\OracleConnect\obj\Debug\OracleConnect.csprojResolveAssemblyReference.cache
+C:\Users\750118\Documents\Visual Studio 2015\Projects\OracleConnect\OracleConnect\obj\Debug\OracleConnect.exe
+C:\Users\750118\Documents\Visual Studio 2015\Projects\OracleConnect\OracleConnect\obj\Debug\OracleConnect.pdb

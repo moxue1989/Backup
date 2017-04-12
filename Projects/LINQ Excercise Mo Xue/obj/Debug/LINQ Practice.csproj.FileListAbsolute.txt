@@ -1,0 +1,11 @@
+C:\Users\750118\Documents\Visual Studio 2015\Projects\LINQ Practice\bin\Debug\LINQ Practice.exe.config
+C:\Users\750118\Documents\Visual Studio 2015\Projects\LINQ Practice\obj\Debug\LINQ Practice.csprojResolveAssemblyReference.cache
+C:\Users\750118\Documents\Visual Studio 2015\Projects\LINQ Practice\obj\Debug\LINQ_Practice.frmNorthWind.resources
+C:\Users\750118\Documents\Visual Studio 2015\Projects\LINQ Practice\obj\Debug\LINQ_Practice.Properties.Resources.resources
+C:\Users\750118\Documents\Visual Studio 2015\Projects\LINQ Practice\obj\Debug\LINQ Practice.csproj.GenerateResource.Cache
+C:\Users\750118\Documents\Visual Studio 2015\Projects\LINQ Practice\bin\Debug\LINQ Practice.exe
+C:\Users\750118\Documents\Visual Studio 2015\Projects\LINQ Practice\bin\Debug\LINQ Practice.pdb
+C:\Users\750118\Documents\Visual Studio 2015\Projects\LINQ Practice\obj\Debug\LINQ Practice.exe
+C:\Users\750118\Documents\Visual Studio 2015\Projects\LINQ Practice\obj\Debug\LINQ Practice.pdb
+C:\Users\750118\Documents\Visual Studio 2015\Projects\LINQ Practice\bin\Debug\NORTHWND.MDF
+C:\Users\750118\Documents\Visual Studio 2015\Projects\LINQ Practice\bin\Debug\NORTHWND_log.ldf

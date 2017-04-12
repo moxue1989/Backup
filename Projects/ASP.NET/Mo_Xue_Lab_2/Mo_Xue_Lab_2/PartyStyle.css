@@ -1,0 +1,25 @@
+﻿/*
+    Mo Xue
+    External Stylesheet
+    Party Voting
+    ASP Lab 2
+*/
+
+body {
+    text-align: center;
+}
+
+.Banner {
+    width: 300px;
+    height: 110px;
+}
+
+ .Heading {
+     font-size: 40px;
+     color: goldenrod;
+     border: 2px dashed orange;
+ }
+
+ .Calender {
+     padding: 0 30%;
+ }
